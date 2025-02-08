@@ -23,7 +23,7 @@ python pythonScrapper.py
 ```
 ### Running the Java Scraper
 ```bash
-java PDFScraper
+java javaScraper
 ```
 
 ## Output
